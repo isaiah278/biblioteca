@@ -42,7 +42,7 @@ while True:
         devolver_livro()
     if opcao == 'emprestimos3':
         mostrar_emprestimos()
-    print('nao fui eu')
+    
     # sair do programa
     if opcao == 0:
         break
